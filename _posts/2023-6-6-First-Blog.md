@@ -4,5 +4,3 @@ title: June 6 2023
 ---
 
 I finished my workstation setup and started work on my website. But when I started I went to lunch with some of my coworkers at long horn. Then when I got back I got back to work on my website and started to write in it.
-
-https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100
