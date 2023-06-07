@@ -1,4 +1,4 @@
 ---
 layout: post
-title: June/7/2023
+title: June 7 2023
 ---
