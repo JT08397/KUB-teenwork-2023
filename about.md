@@ -9,6 +9,7 @@ My anme is Jakob thurman and this is a blog for my time at KUB. I have always lo
 ### More Information
 Im 17 years old, Im on my last year of high school, and I plan to go to UT after school ends. I love video games, movies, and reading. 
 
-# Youtube channel: <https://www.youtube.com/@Theawesomeboy360>
+### Youtube channel: 
+<https://www.youtube.com/@Theawesomeboy360>
 
 
