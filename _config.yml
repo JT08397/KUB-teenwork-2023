@@ -1,32 +1,43 @@
-title: Your awesome title
-subtitle: Your awesome subtitle
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+#
+# This file contains configuration flags to customize your site
+#
 
-# You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
 
-# Social settings
-# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
-stackoverflow_url:
-pinterest_url:
-slack_url:
-dribbble_url:
+# Name of your site (displayed in the header)
+name: KUB-Summer-Blog
 
-# Google Analytics Tracking ID goes here:
-google_analytics:
+# Short bio or description (displayed in the header)
+description: Everything I did in my summer job at KUB
 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/4e/3d/774e3de6-2657-ddaa-c1b3-cd603ad4dc77/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: Theawesomeboy360@gmail.com 
+  facebook:
+  flickr:
+  github: https://github.com/JT08397 
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://your_github_user_name.github.io
@@ -72,8 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-
-# The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
-collections: [sections] 
