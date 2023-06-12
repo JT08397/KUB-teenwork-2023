@@ -11,6 +11,8 @@ description: Everything I did in my summer job at KUB
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/4e/3d/774e3de6-2657-ddaa-c1b3-cd603ad4dc77/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 
+theme: minima
+
 #
 # Flags below are optional
 #
@@ -85,4 +87,4 @@ exclude:
   - README.md
   - CNAME
  
-  theme: minima
+ 
